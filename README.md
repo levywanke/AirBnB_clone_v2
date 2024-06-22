@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/alexaorrico/AirBnB_clone.git
+   git clone https://github.com/levywanke/AirBnB_clone.git
    ```
 
 2. Navigate into the AirBnB directory:
